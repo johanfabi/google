@@ -1,2 +1,2 @@
-# google
+# Google
 Code for Google components.
